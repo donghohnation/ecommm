@@ -1,0 +1,9 @@
+{
+  "name": "orm-ecomm-back-end",
+  "version": "1.0.0",
+  "description": "<h4>ORM: E-commerce Back End</h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: not specified\" && exit 1"
+  }
+}
